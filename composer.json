@@ -29,14 +29,14 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/davidwarneraus3131/TastyIgniter.git"
+            "url": "https://github.com/davidwarneraus3131/tastyigniter-new.git"
         }
     ],
     "require": {
         "php": "^8.3",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.10.1",
-        "davidwarneraus3131/tastyigniter": "dev-main"
+        "davidwarneraus3131/tastyigniter-new": "dev-main"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
